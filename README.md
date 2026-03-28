@@ -1,2 +1,2 @@
-# BroCode-java-
-In this repository , we began the java basics and practice java codes
+ # BroCode-java-by Rishikesh Raj
+ In this repository , we begin the java basics and practice java codes.
