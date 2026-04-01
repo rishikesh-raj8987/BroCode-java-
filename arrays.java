@@ -17,7 +17,7 @@ public class arrays {
 //        for (int i = 0;i<fruits.length;i++){
 //            System.out.print(fruits[i] +" ");
 //        }
-//        Arrays.sort(fruits);//it will sort the array elements in ascending order
+//        Arrays.sort(fruits);//it will sort the array elements in ascending order.
         Arrays.fill(fruits,"pineapple");
 
         for (String fruit : fruits){
